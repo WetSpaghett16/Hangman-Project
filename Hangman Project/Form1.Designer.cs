@@ -91,7 +91,7 @@
             // 
             this.lblGuesses.AutoSize = true;
             this.lblGuesses.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblGuesses.Location = new System.Drawing.Point(439, 442);
+            this.lblGuesses.Location = new System.Drawing.Point(430, 442);
             this.lblGuesses.Name = "lblGuesses";
             this.lblGuesses.Size = new System.Drawing.Size(18, 20);
             this.lblGuesses.TabIndex = 10;
@@ -111,11 +111,12 @@
             // 
             this.lblHint.AutoSize = true;
             this.lblHint.Font = new System.Drawing.Font("Poor Richard", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblHint.Location = new System.Drawing.Point(12, 422);
+            this.lblHint.Location = new System.Drawing.Point(12, 403);
             this.lblHint.Name = "lblHint";
-            this.lblHint.Size = new System.Drawing.Size(200, 57);
+            this.lblHint.Size = new System.Drawing.Size(200, 76);
             this.lblHint.TabIndex = 12;
-            this.lblHint.Text = "Video Game Character.\r\nBoth loved and feared by many.\r\nWestern Style.";
+            this.lblHint.Text = "Video Game Character.\r\nBoth loved and feared by many.\r\nWestern Style.\r\nWorks alon" +
+    "g side a rat.";
             this.lblHint.Visible = false;
             // 
             // btnHint
