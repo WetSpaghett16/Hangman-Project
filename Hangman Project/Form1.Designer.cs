@@ -116,7 +116,7 @@
             this.lblHint.Size = new System.Drawing.Size(200, 76);
             this.lblHint.TabIndex = 12;
             this.lblHint.Text = "Video Game Character.\r\nBoth loved and feared by many.\r\nWestern Style.\r\nWorks alon" +
-    "g side a rat.";
+    "g side a \"rat\".";
             this.lblHint.Visible = false;
             // 
             // btnHint
